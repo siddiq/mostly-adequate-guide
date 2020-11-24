@@ -42,6 +42,7 @@ $ npm i @mostly-adequate/support
 Alternatively, exercises of each chapter are runnable and can be completed in your editor! For example, complete the `exercise_*.js` in `exercises/ch04` and then run:
 
 ```bash
+$ cd exercises
 $ npm run ch04
 ```
 
